@@ -5,8 +5,8 @@ def connect(passwd):
     try:
         conectar = psycopg2.connect(
             dbname="postgres",
-            user="postgres",  # ou o usuário que você estiver usando
-            password=passwd,  # Substitua pela sua senha
+            user="postgres",  
+            password=passwd,  
             host="localhost",
             port="5432"
         )
