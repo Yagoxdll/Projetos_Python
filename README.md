@@ -12,4 +12,4 @@ Principais Funcionalidades
 
 Como Contribuir
 
-Acredito no poder da colaboração e convidamos todos a contribuírem para o aprimoramento deste projeto. Seja através de sugestões, correções ou novas funcionalidades, cada contribuição é valiosa para a construção de uma ferramenta ainda mais eficaz e relevante.
+Acredito no poder da colaboração e convido todos a contribuírem para o aprimoramento deste projeto. Seja através de sugestões, correções ou novas funcionalidades, cada contribuição é valiosa para a construção de uma ferramenta ainda mais eficaz e relevante.
